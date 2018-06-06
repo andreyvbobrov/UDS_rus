@@ -1,11 +1,7 @@
 # UDS_rus
-
 Russian locale for UDS Enterprise www.udsenterprise.com
 
-
-
-# Instruction
-
+## Instruction
 Add russian locale in language list
 ```
 /var/server/server/settings.py
